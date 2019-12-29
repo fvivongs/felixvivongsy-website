@@ -243,3 +243,24 @@ a {
   }
 }
 
+#nav-link:hover {
+  color: #50BB40;
+  /*text-decoration: none;*/
+  /*background-color: #50BB40;*/
+  /*border-radius: 10px;*/
+  /*padding: 0 5px;*/
+  /*display: inline-block;*/
+  /*text-align: center;*/
+  /*position: relative;*/
+  /*padding: 0.2em;*/
+  /*margin: -0.2em;*/
+}
+
+#nav-link:hover {
+  color: #50BB40;
+}
+
+#project-block {
+  padding-bottom: 20px;
+}
+
