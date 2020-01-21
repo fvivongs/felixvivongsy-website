@@ -118,13 +118,13 @@ a {
 }
 
 #UNCC {
-  color: #B9975B;
+  color: #67c34a;
 }
 
 #UNCC:hover {
   color: white;
   text-decoration: none;
-  background-color: #B9975B;
+  background-color: #67c34a;
   border-radius: 10px;
   padding: 0 5px;
   display: inline-block;
