@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <g id="Energy-Icon" transform="translate(-460 -439)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(460 439)" fill="rgba(255,255,255,0)" stroke="#fff" stroke-width="5" opacity="0.8">
+      <circle cx="100" cy="100" r="100" stroke="none"/>
+      <circle cx="100" cy="100" r="97.5" fill="none"/>
+    </g>
+    <g id="power_settings_new-24px" transform="translate(510 489)">
+      <path id="Path_1" data-name="Path 1" d="M0,0H100V100H0Z" fill="none"/>
+      <path id="Path_2" data-name="Path 2" d="M55.222,3H44.778V55.222H55.222ZM80.446,14.332,73.03,21.748A36.139,36.139,0,0,1,86.556,50,36.556,36.556,0,1,1,26.918,21.7l-7.363-7.363A46.956,46.956,0,1,0,97,50,46.647,46.647,0,0,0,80.446,14.332Z" transform="translate(0 0)" fill="#00703c"/>
+    </g>
+  </g>
+</svg>

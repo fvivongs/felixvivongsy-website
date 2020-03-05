@@ -1,0 +1,13 @@
+#EV-Image {
+  transform: rotate(90deg);
+  width: 90%;
+  height: 70%;
+  position: relative;
+  left: 0;
+}
+
+.project-title {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+

@@ -1,0 +1,120 @@
+.Projects-Icon {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#Footer {
+  position: absolute;
+  bottom: 0;
+}
+
+#Project-Item {
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 2rem;
+  height: 125px;
+}
+
+#video-column {
+  min-height: 1000px;
+}
+
+#Center-Brand {
+  height: 125px;
+  width: 350px;
+  border: 5px solid white;
+}
+
+#iconbtn {
+  position: relative;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  text-decoration: none;
+  margin: 20px;
+  font-size: 30px;
+  justify-content: center;
+}
+
+#iconbtn::after {
+  background: #fff;
+  transition: 0.4s;
+}
+
+#iconbtn:hover::after {
+  transform: scale(1.3);
+  opacity: 0;
+}
+
+.button-yo {
+  width: 80px;
+  height: 80px;
+  font-size: 30px;
+  position: relative;
+  margin: 20px;
+  text-decoration: none;
+  border-radius: 50%;
+  justify-content: center;
+}
+
+.button-yo::before {
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: none;
+}
+
+.button-yo::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  border-radius: 50%;
+  z-index: 0;
+  text-decoration: none;
+}
+
+.button-yo.s1 {
+  border: 4px solid #fff;
+  color: blue;
+  text-decoration: none;
+}
+
+.button-yo.s1::after {
+  background: black;
+  transition: 0.4s;
+  text-decoration: none;
+}
+
+.button-yo.s1:hover::after {
+  transform: scale(1.3);
+  opacity: 0;
+  text-decoration: none;
+}
+
+.button-yo.s1:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+.d-xl-flex.block {
+}
+
+#secondary_nav {
+  height: 135px;
+}
+
+.line {
+  background-color: #b9975b;
+}
+
+.image {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
